@@ -3,7 +3,7 @@
 
 # Curso de Html5 e Css3 -- Curso em Video
 
-[![](https://www.cursoemvideo.com/wp-content/uploads/2021/10/cursoemvideo.png)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://www.cursoemvideo.com/wp-content/uploads/2021/10/cursoemvideo.png)]([https://youtu.be/dQw4w9WgXcQ](https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&si=L2xRbuFZVKgwjXmW))
 
 ## Contribuidor
 Daniel Estevão - [ danielmartinsjob@gmail.com ]
