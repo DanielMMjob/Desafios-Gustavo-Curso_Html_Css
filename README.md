@@ -22,7 +22,7 @@ Tecnologias usadas para Construção do Projeto
 - [ Css ] -  CSS3 Tecnologia de Estilização para HiperTexto !
 
 ## Demo
-[![N|Solid](https://www.stellium.com/wp-content/uploads/2019/06/icon-demo.png)](https://scriptsync.github.io/Curso-Html5-e-Css6-Atividade-001/)
+[![N|Solid](https://www.stellium.com/wp-content/uploads/2019/06/icon-demo.png)](https://dvizioon.github.io/Curso-Html5-e-Css6-Atividade-001/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
